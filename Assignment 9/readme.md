@@ -1,4 +1,5 @@
-MS SQL Database
+
+ODBC to MS SQL Database
 
 Requird Library:
 - pyodbc
