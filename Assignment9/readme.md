@@ -11,3 +11,9 @@ Python Version
 
 Command
 - pip install
+
+![alt text](./SQL-Table.png?raw=true)
+
+
+
+![alt text](./Sample-Output.png?raw=true)
