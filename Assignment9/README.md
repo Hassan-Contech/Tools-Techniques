@@ -12,13 +12,19 @@ Python Version
 Command
 - pip install
 
-MS SQL Database, Table an Sample Data 
+
+
+
+
+MS SQL Database, Table an Sample Data: 
 
 ![alt text](./SQL-Table.png?raw=true)
 
 
 
-Sample Output
+
+
+Sample Output:
 
 
 ![alt text](./Sample-Output.png?raw=true)
